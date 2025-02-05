@@ -86,6 +86,7 @@ int main() {
     // Step 5: Create a Robot object
     Robot robot1("Robot1", "Model4", 50);
 
+    Robot robot2("Robot23", "Model24", 57);
     // Step 6: Use pointers to access Robot object
     Robot* ptr = &robot1;
 
